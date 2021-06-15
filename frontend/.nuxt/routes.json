@@ -2,43 +2,43 @@
   {
     "name": "contact-us",
     "path": "/contact-us",
-    "component": "/Volumes/geek/Projects/ProjectsDoing/VirtualCard/frontend/pages/contact-us/index.vue",
+    "component": "/Users/prakashkanumilli/jbbizcard/jbbizcard/frontend/pages/contact-us/index.vue",
     "chunkName": "pages/contact-us/index",
-    "_name": "_0ac74d4f"
+    "_name": "_25d824bd"
   },
   {
     "name": "hosting-guide",
     "path": "/hosting-guide",
-    "component": "/Volumes/geek/Projects/ProjectsDoing/VirtualCard/frontend/pages/hosting-guide/index.vue",
+    "component": "/Users/prakashkanumilli/jbbizcard/jbbizcard/frontend/pages/hosting-guide/index.vue",
     "chunkName": "pages/hosting-guide/index",
-    "_name": "_03853b5b"
+    "_name": "_9f39f5a6"
   },
   {
     "name": "hosting-upgrade",
     "path": "/hosting-upgrade",
-    "component": "/Volumes/geek/Projects/ProjectsDoing/VirtualCard/frontend/pages/hosting-upgrade/index.vue",
+    "component": "/Users/prakashkanumilli/jbbizcard/jbbizcard/frontend/pages/hosting-upgrade/index.vue",
     "chunkName": "pages/hosting-upgrade/index",
-    "_name": "_132f317b"
+    "_name": "_007c6266"
   },
   {
     "name": "privacy-policy",
     "path": "/privacy-policy",
-    "component": "/Volumes/geek/Projects/ProjectsDoing/VirtualCard/frontend/pages/privacy-policy/index.vue",
+    "component": "/Users/prakashkanumilli/jbbizcard/jbbizcard/frontend/pages/privacy-policy/index.vue",
     "chunkName": "pages/privacy-policy/index",
-    "_name": "_5debfd7b"
+    "_name": "_4cc76de9"
   },
   {
     "name": "terms-and-conditions",
     "path": "/terms-and-conditions",
-    "component": "/Volumes/geek/Projects/ProjectsDoing/VirtualCard/frontend/pages/terms-and-conditions/index.vue",
+    "component": "/Users/prakashkanumilli/jbbizcard/jbbizcard/frontend/pages/terms-and-conditions/index.vue",
     "chunkName": "pages/terms-and-conditions/index",
-    "_name": "_0c605e50"
+    "_name": "_e5769274"
   },
   {
     "name": "index",
     "path": "/",
-    "component": "/Volumes/geek/Projects/ProjectsDoing/VirtualCard/frontend/pages/index.vue",
+    "component": "/Users/prakashkanumilli/jbbizcard/jbbizcard/frontend/pages/index.vue",
     "chunkName": "pages/index",
-    "_name": "_ae8564fe"
+    "_name": "_1c08ced3"
   }
 ]

@@ -4,12 +4,12 @@ import { normalizeURL, decode } from 'ufo'
 import { interopDefault } from './utils'
 import scrollBehavior from './router.scrollBehavior.js'
 
-const _0ac74d4f = () => interopDefault(import('../pages/contact-us/index.vue' /* webpackChunkName: "pages/contact-us/index" */))
-const _03853b5b = () => interopDefault(import('../pages/hosting-guide/index.vue' /* webpackChunkName: "pages/hosting-guide/index" */))
-const _132f317b = () => interopDefault(import('../pages/hosting-upgrade/index.vue' /* webpackChunkName: "pages/hosting-upgrade/index" */))
-const _5debfd7b = () => interopDefault(import('../pages/privacy-policy/index.vue' /* webpackChunkName: "pages/privacy-policy/index" */))
-const _0c605e50 = () => interopDefault(import('../pages/terms-and-conditions/index.vue' /* webpackChunkName: "pages/terms-and-conditions/index" */))
-const _ae8564fe = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
+const _25d824bd = () => interopDefault(import('../pages/contact-us/index.vue' /* webpackChunkName: "pages/contact-us/index" */))
+const _9f39f5a6 = () => interopDefault(import('../pages/hosting-guide/index.vue' /* webpackChunkName: "pages/hosting-guide/index" */))
+const _007c6266 = () => interopDefault(import('../pages/hosting-upgrade/index.vue' /* webpackChunkName: "pages/hosting-upgrade/index" */))
+const _4cc76de9 = () => interopDefault(import('../pages/privacy-policy/index.vue' /* webpackChunkName: "pages/privacy-policy/index" */))
+const _e5769274 = () => interopDefault(import('../pages/terms-and-conditions/index.vue' /* webpackChunkName: "pages/terms-and-conditions/index" */))
+const _1c08ced3 = () => interopDefault(import('../pages/index.vue' /* webpackChunkName: "pages/index" */))
 
 const emptyFn = () => {}
 
@@ -24,27 +24,27 @@ export const routerOptions = {
 
   routes: [{
     path: "/contact-us",
-    component: _0ac74d4f,
+    component: _25d824bd,
     name: "contact-us"
   }, {
     path: "/hosting-guide",
-    component: _03853b5b,
+    component: _9f39f5a6,
     name: "hosting-guide"
   }, {
     path: "/hosting-upgrade",
-    component: _132f317b,
+    component: _007c6266,
     name: "hosting-upgrade"
   }, {
     path: "/privacy-policy",
-    component: _5debfd7b,
+    component: _4cc76de9,
     name: "privacy-policy"
   }, {
     path: "/terms-and-conditions",
-    component: _0c605e50,
+    component: _e5769274,
     name: "terms-and-conditions"
   }, {
     path: "/",
-    component: _ae8564fe,
+    component: _1c08ced3,
     name: "index"
   }],
 
